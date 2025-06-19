@@ -12,7 +12,7 @@ MioMeteoは「私の（Mio）」と「隕石（Meteo）」という言葉を組�
 
 [`docs/concept.md`](./docs/concept.md) 
 
-[`docs/privacy_policy.md`](.docs/privacy_policy.md) 
+[`docs/privacy_policy.md`](./docs/privacy_policy.md) 
 
 ---
 
