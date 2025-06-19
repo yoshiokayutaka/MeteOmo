@@ -125,6 +125,10 @@ Unauthorized use or plagiarism is strictly discouraged.
 
 I kindly ask that you respect and protect this expression of kindness.
 
+Initial Concept Release Date: June 19, 2025 (JST)
+The icon, app name, and design philosophy were first published on GitHub as of the above date.
+Change logs and update history have also been recorded accordingly.
+
 ---
 
 Author: Yutaka Yoshioka
