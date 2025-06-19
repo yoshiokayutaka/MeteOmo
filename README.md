@@ -61,6 +61,12 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
 ---
 
+# MioMeteo
+### 開発コンセプト公開日：2025年6月19日（JST）
+
+このアイコン・名称・設計思想は、上記日時にGitHub上で公開されたものです。
+変更履歴・更新履歴も併せて記録しております。
+
 著作者：吉岡有隆 
 （Yutaka Yoshioka）
 
