@@ -1,19 +1,17 @@
-# MioMeteo - 優しさで心を包む、小さな気象と記録のアプリ
+# MeteOmo - 優しさで心を包む、小さな気象と記録のアプリ
 
-このリポジトリは、まだ開発途中のアプリ「MioMeteo（ミオメテオ）」に関する記録と設計の一歩目です。
+このリポジトリは、まだ開発途中のアプリ「MeteOmo（メテオモ）」に関する記録と設計の一歩目です。
 
-MioMeteoは「私の（Mio）」と「隕石（Meteo）」という言葉を組み合わせた名前から生まれました。  
-耳（Mi）音（o）＝耳で聞く、心で聞く。
-それは希望と不安、優しさと破壊、その相反する感情を内包しながら、  
-心と身体のささやかな揺れをそっと記録し寄り添うことを目的としています。
+MeteOmoは「天気（Meteo）」と「感情（Emotion）」という言葉を組み合わせた名前から生まれました。  
+天気が心を揺らすように、感情もまた波のように変わる。  
+その揺れにそっと寄り添うことを目的とし、気圧・気象・服薬・気分を優しく記録していくアプリです。
 
 ---
 
 ## コンセプトとプライバシーポリシーについて
 
-[`docs/concept.md`](./docs/concept.md) 
-
-[`docs/privacy_policy.md`](./docs/privacy_policy.md) 
+[`docs/concept.md`](./docs/concept.md)  
+[`docs/privacy_policy.md`](./docs/privacy_policy.md)
 
 ---
 
@@ -39,7 +37,7 @@ MioMeteoは「私の（Mio）」と「隕石（Meteo）」という言葉を組�
 - GitHub上での設計思想の共有  
 - モックアップやUI素材の公開  
 - プライバシー設計の透明化  
-- 将来的には、任意参加による治験・教育支援の仕組み連携も視野に入れています  
+- 将来的には、任意参加による治験・教育支援の仕組み連携も視野に入れています
 
 ---
 
@@ -48,14 +46,14 @@ MioMeteoは「私の（Mio）」と「隕石（Meteo）」という言葉を組�
 - 開発の想いときっかけを綴った記事はこちら：  
 https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
-もしくは./articles
+もしくは `./articles`
 
 ---
 
-## 🛡MioMeteo License - version 1.0  
+## Meteomo License - version 1.0  
 **Copyright (c) 2025 吉岡有隆（Yutaka Yoshioka）**
 
-本プロジェクト「MioMeteo」に含まれるすべての文章・設計・構成・素材・名称（以下「本コンテンツ」）は、  
+本プロジェクト「Meteomo」に含まれるすべての文章・設計・構成・素材・名称（以下「本コンテンツ」）は、  
 吉岡有隆個人による創作物であり、善意に基づいた記録と共有を目的としています。
 
 本コンテンツは、以下の条件のもとで利用・参照・引用することができます：
@@ -80,7 +78,7 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
 > **このライセンスはMITやApacheライセンスのような法的拘束力のある商用ライセンスではありませんが、**  
 > **創作者の意思と未来への祈りを守るための「優しさの約束」として存在しています。**  
->  
+>
 > **もしあなたがこの言葉に心を動かされたなら、その優しさを、別の誰かにそっと手渡してもらえたら幸いです。**
 
 **著作者**：吉岡有隆（Yutaka Yoshioka）  
@@ -88,22 +86,24 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
 ---
 
-# MioMeteo
+# Meteomo  
 ### 開発コンセプト公開日：2025年6月19日（JST）
 
-このアイコン・名称・設計思想は、上記日時にGitHub上で公開されたものです。
+このアイコン・名称・設計思想は、上記日時にGitHub上で公開されたものです。  
 変更履歴・更新履歴も併せて記録しております。
 
-著作者：吉岡有隆 
+著作者：吉岡有隆  
 （Yutaka Yoshioka）
 
-# MioMeteo – A Gentle App That Embraces the Heart Through Weather and Daily Records
+---
 
-This repository marks the beginning of the documentation and design process for *MioMeteo*, an app currently in development.
+# Meteomo – A Gentle App That Embraces the Heart Through Weather and Daily Records
 
-The name *MioMeteo* is a combination of “Mio” (meaning “my” in Italian and Japanese) and “Meteo” (meteor).  
-It was created with the intention of gently supporting the subtle tremors of the mind and body—  
-embracing the dual nature of hope and anxiety, kindness and destruction.
+This repository marks the beginning of the documentation and design process for *Meteomo*, an app currently in development.
+
+The name *Meteomo* is a combination of "Meteo" (weather) and "Emotion".  
+Just as weather changes and affects our body, emotions shift quietly with it.  
+This app aims to gently support and record those fluctuations — with empathy and softness.
 
 ---
 
@@ -141,10 +141,10 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
 ---
 
-### MioMeteo License - version 1.0  
+### Meteomo License - version 1.0  
 **Copyright (c) 2025 Yutaka Yoshioka**
 
-All contents included in this project "MioMeteo" — including its written texts, design documents, structural plans, assets, and naming conventions (hereinafter referred to as "the Content") — are original works created by **Yutaka Yoshioka**, and are shared in good faith for purposes of documentation and collaboration.
+All contents included in this project "Meteomo" — including its written texts, design documents, structural plans, assets, and naming conventions (hereinafter referred to as "the Content") — are original works created by **Yutaka Yoshioka**, and are shared in good faith for purposes of documentation and collaboration.
 
 You are welcome to use, reference, or quote this Content under the following conditions:
 
@@ -173,9 +173,3 @@ You are welcome to use, reference, or quote this Content under the following con
 
 **Author**: Yutaka Yoshioka（吉岡有隆）  
 **Issued**: June 19, 2025
-
----
-
-Author: Yutaka Yoshioka
-
-
