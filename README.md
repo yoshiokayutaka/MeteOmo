@@ -138,19 +138,38 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
 ---
 
-## Copyright & Reuse Policy
+### MioMeteo License - version 1.0  
+**Copyright (c) 2025 Yutaka Yoshioka**
 
-All text, structure, design concepts, and naming in this repository  
-are original creations based on the personal records and intentions of *Yutaka Yoshioka*.
+All contents included in this project "MioMeteo" — including its written texts, design documents, structural plans, assets, and naming conventions (hereinafter referred to as "the Content") — are original works created by **Yutaka Yoshioka**, and are shared in good faith for purposes of documentation and collaboration.
 
-When reusing or quoting, please make sure to credit the original author.  
-Unauthorized use or plagiarism is strictly discouraged.
+You are welcome to use, reference, or quote this Content under the following conditions:
 
-I kindly ask that you respect and protect this expression of kindness.
+1. **Attribution Required**  
+   When reusing or quoting, you must clearly credit the author (Yutaka Yoshioka) and include a link to this repository.
 
-Initial Concept Release Date: June 19, 2025 (JST)
-The icon, app name, and design philosophy were first published on GitHub as of the above date.
-Change logs and update history have also been recorded accordingly.
+2. **Non-Commercial Use Only**  
+   Reproduction, redistribution, or derivative use for commercial purposes is prohibited. Use for educational, research, or welfare-oriented purposes is warmly welcomed.
+
+3. **Transparency in Modifications**  
+   If you modify the Content, you must indicate what changes were made, and ensure that the modified work is not confused with the original. Derivative works that strongly resemble this project are discouraged.
+
+4. **No Plagiarism or Unauthorized Use**  
+   Plagiarizing, impersonating the author, or commercially exploiting this work against the spirit of the project is strictly forbidden.
+
+5. **Collaboration Based on Empathy is Encouraged**  
+   If you resonate with the core philosophy of this project — to accompany the emotional fluctuations of the heart with compassion — you are warmly invited to reach out for collaboration or contribution.
+
+---
+
+> **Note:**  
+> This license is not a legally binding commercial license like MIT or Apache,  
+> but rather a "Promise of Kindness" — a declaration to protect the creator’s intent and hope for the future.  
+>   
+> If these words moved you, I only ask that you pass that kindness gently to someone else.
+
+**Author**: Yutaka Yoshioka（吉岡有隆）  
+**Issued**: June 19, 2025
 
 ---
 
