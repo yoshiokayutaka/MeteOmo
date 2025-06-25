@@ -47,6 +47,8 @@ MioMeteoは「私の（Mio）」と「隕石（Meteo）」という言葉を組�
 - 開発の想いときっかけを綴った記事はこちら：  
 https://note.com/yoshiokayutaka/m/mc1445248ddfb
 
+もしくは./articles
+
 ---
 
 ## 🛡MioMeteo License - version 1.0  
