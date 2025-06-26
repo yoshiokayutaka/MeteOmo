@@ -46,7 +46,7 @@
 ## 関連記事（note）
 
 アプリに込めた想いや経緯について綴った記事：  
-👉 https://note.com/yoshiokayutaka/m/mc1445248ddfb  
+https://note.com/yoshiokayutaka/m/mc1445248ddfb  
 
 ---
 
@@ -102,4 +102,110 @@ This name, design philosophy, and iconography were publicly shared via GitHub on
 Versioning and change history are recorded within this repository.
 
 ---
+
+# MeteOmo – A Gentle App That Embraces the Heart Through Weather and Daily Records
+
+This repository marks the beginning of the documentation and design journey for *MeteOmo*, a Flutter-based app currently in development.
+
+The name *MeteOmo* comes from combining “Meteo” (weather) and “Emotion.”  
+Just as barometric pressure sways our minds, emotions rise and fall like waves.  
+This app is designed to gently observe and log those fluctuations—weather, pressure, mood, and medication—with quiet compassion.
+
+---
+
+## Concept and Privacy Policy
+
+- [`docs/concept.md`](./docs/concept.md) – Design principles and philosophy  
+- [`docs/privacy_policy.md`](./docs/privacy_policy.md) – Privacy and data protection policies  
+
+---
+
+## About This Repository
+
+- This project is currently in its prototype phase, but development logs, UI designs, and philosophical underpinnings will be gradually published here.
+- All ideas, names, and structural designs in this repository stem from a quiet desire to protect someone’s inner world.
+- This serves as a written anchor for the origin of this vision.
+
+---
+
+## Why This Record Exists
+
+In an open and fast-moving world, ideas and names are sometimes used unintentionally by others.  
+Rather than blame or accuse, this record exists as a gentle reminder:
+
+> “This was born from my own thoughts and intentions.”
+
+May this project reach someone in need, and become a quiet presence that supports them.
+
+---
+
+## Upcoming Plans
+
+- Sharing the design philosophy and mockups publicly  
+- Publishing UI sketches and interface assets  
+- Transparent disclosure of privacy and security design  
+- Potential integration with mental health research and educational support in the future  
+
+---
+
+## Related Articles (note)
+
+Read more about the inspiration and backstory behind this project:  
+https://note.com/yoshiokayutaka/m/mc1445248ddfb  
+
+---
+
+# Copyright and License
+
+## MeteOmo License - Version 1.0  
+**Copyright (c) 2025 Yutaka Yoshioka（吉岡有隆）**
+
+All content included in this project “MeteOmo” — including concepts, written texts, UI designs, file structures, and naming conventions (hereinafter referred to as “the Content”) — is the original work of **Yutaka Yoshioka**, created with the intent to document and share in good faith and empathy.
+
+### Usage Conditions
+
+1. **Attribution Required**  
+   When referencing or reusing this Content, please clearly credit the author (Yutaka Yoshioka) and link to this repository.
+
+2. **Non-Commercial Use Only**  
+   Commercial reproduction, redistribution, or derivative use is prohibited.  
+   Usage for educational, research, and welfare-related purposes is warmly welcomed.
+
+3. **Transparency in Modifications**  
+   If you modify the Content, please indicate what has been changed.  
+   Ensure your version is not confused with the original.  
+   Please avoid creating projects that closely mimic this one in name or intent.
+
+4. **No Plagiarism or Unauthorized Use**  
+   Unauthorized reproduction, misrepresentation, or exploitative use of this work is strictly prohibited.
+
+5. **Empathy-Based Collaboration Encouraged**  
+   If you resonate with the core values of this project—supporting emotional fluctuation with kindness—feel free to reach out for collaboration.
+
+---
+
+> This license is not a legally binding commercial license like MIT or Apache.  
+> Instead, it is a *“Promise of Kindness”* — created to protect the spirit of this work and the future it envisions.  
+>
+> If these words speak to you, may you gently pass this kindness to someone else.
+
+---
+
+### Author Information
+
+- Name: Yutaka Yoshioka（吉岡有隆）  
+- Initial Publication Date: June 19, 2025 (JST)  
+- Social Accounts:  
+  - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11) (Philosophy / Creative Writing)  
+  - [@yutakayoshioka](https://x.com/yutakaapp_?s=11) (Development / Technology)
+
+---
+
+# MeteOmo  
+### Concept Publication Date: June 19, 2025 (JST)
+
+The app name, icon, and conceptual philosophy were publicly published via GitHub on the above date.  
+Change history and versioning are recorded within this repository.
+
+Author: Yutaka Yoshioka（吉岡有隆）
 
