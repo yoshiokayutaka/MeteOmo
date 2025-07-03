@@ -1,3 +1,13 @@
+> 本プロジェクト「MeteOmo（メテオモ）」は、2025年6月19日制定の専用ライセンス（MeteOmoカスタムライセンス）に基づき保護されています。  
+> 名称・構想・思想・UI・アイコン・設計方針などを含め、すべての著作権は **吉岡有隆（Yutaka Yoshioka）** に帰属します。  
+> 無断での再利用・改変・商用利用・派生作品の公開は一切禁止されています。  
+> 詳細は [LICENSE.md](./LICENSE.md) をご確認ください。
+>
+> This project "MeteOmo" is protected under the **MeteOmo Custom License**, established on June 19, 2025.  
+> All rights including the name, concept, philosophy, UI, and design belong to **Yutaka Yoshioka**.  
+> Unauthorized use, modification, commercialization, or redistribution is strictly prohibited.  
+> See [LICENSE.md](./LICENSE.md) for details.
+
 # MeteOmo - 優しさで心を包む、小さな気象と記録のアプリ
 
 このリポジトリは、開発中のFlutterアプリ「MeteOmo（メテオモ）」に関する記録と設計の出発点です。
