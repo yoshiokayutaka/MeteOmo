@@ -1,66 +1,93 @@
-## MeteOmo License - version 1.0  
-**Copyright (c) 2025 Yutaka Yoshioka**
+# MeteOmo カスタムライセンス（吉岡有隆ライセンス）
 
-本プロジェクト「MeteOmo」に含まれるすべての文章・設計・構成・素材・名称（以下「本コンテンツ」）は、  
-吉岡有隆個人による創作物であり、善意に基づいた記録と共有を目的としています。
+**Copyright (c) 2025 吉岡有隆（Yutaka Yoshioka）**
 
-本コンテンツは、以下の条件のもとで利用・参照・引用することができます：
+本アプリケーション「MeteOmo（メテオモ）」およびその関連コード・名称・アイコン・UIデザイン・構想・思想・ドキュメントはすべて、著作者である **吉岡有隆（Yutaka Yoshioka）** によって創作された著作物であり、著作権法によって保護されています。
 
-1. **クレジット表記**  
-   再利用・引用の際には、必ず著作者（Yutaka Yoshioka）の名前と本リポジトリへのリンクを明記してください。
-
-2. **非営利目的に限る**  
-   営利目的での複製・転載・二次利用は禁止します。教育・研究・福祉的目的での使用は歓迎されます。
-
-3. **改変の透明性**  
-   内容を改変した場合、その旨を明記し、元の著作物と混同されないようにしてください。似た作品はご遠慮ください。
-
-4. **盗用・無断使用の禁止**  
-   著作者の意図を無視した形での盗用・なりすまし利用・営利的な不正転用は固くお断りします。
-
-5. **共感を前提とした連携歓迎**  
-   本プロジェクトの理念（心の揺れに寄り添うこと）に共感し、優しさある形での協力や連携を希望される方は、ぜひご連絡ください。
+本ソフトウェアは無償で提供され、ソースコードはGitHubにて公開予定ですが、以下の条件を**すべて満たす場合に限り**、使用・複製・改変・再配布を許可します。
 
 ---
 
-> このライセンスはMITやApacheライセンスのような法的拘束力のある商用ライセンスではありませんが、  
-> 創作者の意思と未来への祈りを守るための「優しさの約束」として存在しています。  
->  
-> もしあなたがこの言葉に心を動かされたなら、その優しさを、別の誰かにそっと手渡してもらえたら幸いです。
+## 許可される行為（Permitted Uses）
 
-**著作者**：吉岡有隆（Yutaka Yoshioka）  
-**発行日**：2025年6月19日
-
-## MeteOmo License - version 1.0  
-**Copyright (c) 2025 Yutaka Yoshioka**
-
-All texts, designs, structures, materials, and naming included in this project *MeteOmo* (hereinafter referred to as “this content”)  
-are original creations by Yutaka Yoshioka, intended for documentation and sharing based on goodwill.
-
-This content may be used, referenced, or quoted under the following conditions:
-
-1. **Attribution**  
-   When reusing or quoting, please clearly state the author’s name (Yutaka Yoshioka) and include a link to this repository.
-
-2. **Non-commercial Use Only**  
-   Commercial reproduction, redistribution, or derivative use is not permitted. Use for educational, research, or humanitarian purposes is welcomed.
-
-3. **Transparency in Modification**  
-   If you modify any part of the content, please make that clear and ensure it is not confused with the original work.  
-   Creating closely imitative works is discouraged.
-
-4. **Prohibition of Unauthorized Use and Plagiarism**  
-   Any unauthorized use, misrepresentation, or exploitative commercialization that ignores the author’s intent is strictly prohibited.
-
-5. **Collaboration Based on Shared Empathy**  
-   If you resonate with the philosophy of this project — to gently accompany the subtle tremors of the heart — and wish to collaborate in a spirit of kindness, please feel free to reach out.
+- **個人利用・教育目的**での使用
+- **学習目的でのコード引用**（※必ず出典を明記すること）
+- GitHub上の**リポジトリのフォーク**（※著作権表示を削除してはならない）
 
 ---
 
-> This license is not a legally binding commercial license like MIT or Apache,  
-> but rather a “Promise of Kindness” — intended to protect the creator’s intention and a hope for the future.  
->  
-> If these words speak to you, I hope you will carry their kindness forward to someone else, gently.
+## 禁止事項（Prohibited Actions）
 
-**Author**: Yutaka Yoshioka  
-**Issued**: June 19, 2025
+- **「著作：吉岡有隆」表記の削除・改変・隠蔽**
+- **吉岡有隆本人になりすます、または出典を偽る行為**
+- 本アプリの**名称、構想、思想、アイコン、ロゴ、UIデザイン等の模倣・商用利用**
+- **吉岡の事前許可なく**本ソフトウェアの派生物を公開・販売・転用する行為
+- 精神医療・心理支援に関わる**誤用、断定的表現、誤誘導的な利用**
+
+---
+
+## 表記義務（Required Attribution）
+
+下記の著作権表示を、**コードベース、README、アプリのクレジット、配布資料**のいずれかに必ず記載してください：
+
+
+また、派生作品を作成する場合は以下のような明記が必要です：
+
+> "This work is based on 'MeteOmo' created by Yutaka Yoshioka."
+
+---
+
+## ライセンス制定日と改訂
+
+このライセンスは **2025年7月3日** に制定されました。  
+内容は、著作者の裁量により今後改訂される場合があります。
+
+---
+
+# MeteOmo Custom License (Yutaka Yoshioka License)
+
+**Copyright (c) 2025 Yutaka Yoshioka**
+
+The application **"MeteOmo"**, including all related **source code, name, concept, icon, design, philosophy, and documentation**, is an original work created by **Yutaka Yoshioka** and is protected under international copyright laws.
+
+While this software is offered free of charge and the source code will be publicly available on GitHub, **permission to use, copy, modify, or redistribute is granted only if all of the following conditions are met**:
+
+---
+
+## Permitted Uses
+
+- Use for **personal or educational** purposes  
+- **Quoting code for learning**, with proper attribution  
+- **Forking the GitHub repository**, only if attribution is retained
+
+---
+
+## Prohibited Actions
+
+- **Removing, altering, or hiding** the credit: “Created by Yutaka Yoshioka”  
+- **Misrepresenting authorship** or impersonating the creator  
+- **Commercial use or imitation** of the concept, name, logo, icon, UI design, or philosophy without permission  
+- **Publishing, selling, or adapting derivative works** without **explicit prior consent**  
+- Any misleading or manipulative use in **mental health or psychological contexts**
+
+---
+
+## Required Attribution
+
+The following notice **must appear** in the source code, README, app credits, or distribution materials:
+
+
+For any derivative works, you must clearly state:
+
+> "This work is based on 'MeteOmo' created by Yutaka Yoshioka."
+
+---
+
+## License Establishment & Revisions
+
+This license was established on **July 3, 2025**.  
+It may be updated or revised at the discretion of the author.
+
+---
+
+All rights reserved.
