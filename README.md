@@ -105,6 +105,8 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15847266.svg)](https://doi.org/10.5281/zenodo.15847266)
 
+MeteOmo is not just an app—it's a soft landing for those struggling to breathe under mental storms.
+
 ---
 
 # MeteOmo – A Gentle App That Embraces the Heart Through Weather and Records
