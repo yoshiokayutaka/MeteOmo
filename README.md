@@ -102,6 +102,8 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 - SNS：  
   - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11)（思想・創作）  
   - [@yutakayoshioka](https://x.com/yutakaapp_?s=11)（開発・技術）
+ 
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15847266.svg)](https://doi.org/10.5281/zenodo.15847266)
 
 ---
 
