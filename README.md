@@ -74,10 +74,10 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
    引用・転載の際は、著作者名（Yutaka Yoshioka）と本リポジトリURLを明記してください。
 
 2. **非営利目的に限る**  
-   営利的な利用（再配布・素材流用・アプリ転用等）は禁止します。教育・研究・福祉目的での使用は歓迎されます。
+   営利的な利用（再配布・素材流用・アプリ転用等）は禁止します。教育・研究・福祉目的での共有のみ歓迎されます。
 
 3. **改変の明示**  
-   内容を改変した場合はその旨を明記し、原作と混同されないようにしてください。原案に酷似する別アプリ等の開発・発信はご遠慮ください。
+   内容を改変した場合はその旨を明記し、原作と混同されないようにしてください。原案に酷似する別アプリ等の開発・発信は禁止されています。
 
 4. **無断使用・盗用の禁止**  
    意図を無視した盗用、なりすまし利用、商用の不正転用は固くお断りします。
@@ -109,117 +109,105 @@ MeteOmo is not just an app—it's a soft landing for those struggling to breathe
 
 ---
 
-# MeteOmo – A Gentle App That Embraces the Heart Through Weather and Records
+# MeteOmo – A Gentle App That Wraps the Heart with Kindness Through Weather and Records
 
-**Concept Release Date: June 19, 2025 (JST)**  
-This name, design philosophy, and iconography were publicly shared via GitHub on the above date.  
-Versioning and change history are recorded within this repository.
+This repository marks the starting point of documentation and design for the Flutter-based app "MeteOmo", currently under development.
 
----
-
-# MeteOmo – A Gentle App That Embraces the Heart Through Weather and Daily Records
-
-This repository marks the beginning of the documentation and design journey for *MeteOmo*, a Flutter-based app currently in development.
-
-The name *MeteOmo* comes from combining “Meteo” (weather) and “Emotion.”  
-Just as barometric pressure sways our minds, emotions rise and fall like waves.  
-This app is designed to gently observe and log those fluctuations—weather, pressure, mood, and medication—with quiet compassion.
+**Meteo (weather)** + **Emotion (feelings)** —  
+Just as barometric pressure can stir the heart, emotions too rise and fall like waves.  
+This app is designed to gently accompany those fluctuations, softly recording atmospheric pressure, weather, medication, and mood.
 
 ---
 
 ## Concept and Privacy Policy
 
-- [`docs/concept.md`](./docs/concept.md) – Design principles and philosophy  
-- [`docs/privacy_policy.md`](./docs/privacy_policy.md) – Privacy and data protection policies  
+- [`docs/concept.md`](./docs/concept.md) – Philosophy and design intentions behind the app  
+- [`docs/privacy_policy.md`](./docs/privacy_policy.md) – Policy regarding privacy and data protection  
 
 ---
 
 ## About This Repository
 
-- This project is currently in its prototype phase, but development logs, UI designs, and philosophical underpinnings will be gradually published here.
-- All ideas, names, and structural designs in this repository stem from a quiet desire to protect someone’s inner world.
-- This serves as a written anchor for the origin of this vision.
+- While still in its prototype phase, this repository will gradually publish design logs, UI drafts, and the underlying concepts.
+- Everything documented here was born from a quiet desire to protect someone’s inner world.
+- As the origin of these ideas, this serves as their written trace.
 
 ---
 
-## Why This Record Exists
+## Why Leave a Record
 
-In an open and fast-moving world, ideas and names are sometimes used unintentionally by others.  
-Rather than blame or accuse, this record exists as a gentle reminder:
+In an open world, ideas and names are sometimes unintentionally used by others.  
+This is not meant to blame anyone, but rather to gently affirm:
 
 > “This was born from my own thoughts and intentions.”
 
-May this project reach someone in need, and become a quiet presence that supports them.
+We believe there is meaning in quietly and sincerely documenting that origin.  
+May this project become a quiet support that gently accompanies someone's heart.
 
 ---
 
-## Upcoming Plans
+## Future Plans
 
-- Sharing the design philosophy and mockups publicly  
-- Publishing UI sketches and interface assets  
-- Transparent disclosure of privacy and security design  
-- Potential integration with mental health research and educational support in the future  
+- Public release of design principles and UI mockups on GitHub  
+- Ensuring transparency in privacy and security design  
+- Exploring collaboration with education and welfare sectors (including future clinical research)
 
 ---
 
 ## Related Articles (note)
 
-Read more about the inspiration and backstory behind this project:  
+Articles describing the background and emotions behind this app:  
 https://note.com/yoshiokayutaka/m/mc1445248ddfb  
 
 ---
 
 # Copyright and License
 
-## MeteOmo License - Version 1.0  
+## MeteOmo License – Version 1.0  
 **Copyright (c) 2025 Yutaka Yoshioka（吉岡有隆）**
 
-All content included in this project “MeteOmo” — including concepts, written texts, UI designs, file structures, and naming conventions (hereinafter referred to as “the Content”) — is the original work of **Yutaka Yoshioka**, created with the intent to document and share in good faith and empathy.
+All content included in this project "MeteOmo"—including its concept, writings, UI drafts, file structure, and naming—was created and published by **Yutaka Yoshioka**, with the intent of kind and empathetic sharing.
 
-### Usage Conditions
+### Terms of Use
 
 1. **Attribution Required**  
-   When referencing or reusing this Content, please clearly credit the author (Yutaka Yoshioka) and link to this repository.
+   When quoting or referencing this work, please clearly state the author’s name (Yutaka Yoshioka) and link to this repository.
 
 2. **Non-Commercial Use Only**  
-   Commercial reproduction, redistribution, or derivative use is prohibited.  
-   Usage for educational, research, and welfare-related purposes is warmly welcomed.
+   Commercial use (including redistribution, material reuse, or app adaptation) is prohibited.  
+   Sharing for educational, research, or welfare purposes is warmly welcomed.
 
-3. **Transparency in Modifications**  
-   If you modify the Content, please indicate what has been changed.  
-   Ensure your version is not confused with the original.  
-   Please avoid creating projects that closely mimic this one in name or intent.
+3. **Clarity in Modifications**  
+   If modifications are made, please state so clearly and ensure the modified work is not mistaken for the original.  
+   Creating other apps or content that closely mimic the original concept is not allowed.
 
-4. **No Plagiarism or Unauthorized Use**  
-   Unauthorized reproduction, misrepresentation, or exploitative use of this work is strictly prohibited.
+4. **No Unauthorized Use or Plagiarism**  
+   Unauthorized copying, impersonation, or commercial exploitation without respecting the creator’s intent is strictly forbidden.
 
-5. **Empathy-Based Collaboration Encouraged**  
-   If you resonate with the core values of this project—supporting emotional fluctuation with kindness—feel free to reach out for collaboration.
+5. **Empathetic Collaboration Welcome**  
+   If you resonate with the project’s vision—gently supporting emotional fluctuations—collaboration is warmly welcomed. Please feel free to reach out.
 
 ---
 
-> This license is not a legally binding commercial license like MIT or Apache.  
-> Instead, it is a *“Promise of Kindness”* — created to protect the spirit of this work and the future it envisions.  
+> This license is not a commercial software license (like MIT or Apache).  
+> It exists as a **Promise of Kindness** to protect the creator’s intentions and the future this work envisions.  
 >
-> If these words speak to you, may you gently pass this kindness to someone else.
+> If these words move your heart,  
+> we hope you'll quietly pass that kindness to someone else.
 
 ---
 
 ### Author Information
 
 - Name: Yutaka Yoshioka（吉岡有隆）  
-- Initial Publication Date: June 19, 2025 (JST)  
-- Social Accounts:  
-  - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11) (Philosophy / Creative Writing)  
+- Public Release Date: June 19, 2025 (JST)  
+- Social Media:  
+  - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11) (Philosophy / Creative Work)  
   - [@yutakayoshioka](https://x.com/yutakaapp_?s=11) (Development / Technology)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15847266.svg)](https://doi.org/10.5281/zenodo.15847266)
+
+**MeteOmo is not just an app—it's a soft landing for those struggling to breathe under mental storms.**
+
 ---
-
-# MeteOmo  
-### Concept Publication Date: June 19, 2025 (JST)
-
-The app name, icon, and conceptual philosophy were publicly published via GitHub on the above date.  
-Change history and versioning are recorded within this repository.
-
-Author: Yutaka Yoshioka（吉岡有隆）
 
